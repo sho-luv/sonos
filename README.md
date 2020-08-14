@@ -18,7 +18,6 @@ Program to control Sonos systems. Sonos Amp has a left and right speaker. The
 amp is powerful enough to set up a room on each This script makes it easy to
 play left and right speakers as if they were zones.
 
-<img src="https://github.com/sho-luv/xerox_password/blob/master/img/xerox_password.gif" alt="xerox_password" />
 
 ## How to Use
 
